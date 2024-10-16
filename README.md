@@ -8,6 +8,10 @@
 npm install
 ```
 
+```bash
+npm install three
+```
+
 ### Start Project
 
 ```bash
